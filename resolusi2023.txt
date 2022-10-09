@@ -1,3 +1,4 @@
 latihan git
 1. deskripsi
 2. latihan github
+3. fokus di online
